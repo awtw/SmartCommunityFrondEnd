@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const sendMessage = () => {
+const sendMessage = async () => {
 let res = await axios.post('https://localhost:7048/api/Supabase/Login', {
 email: form.value.email,
 password: form.value.password

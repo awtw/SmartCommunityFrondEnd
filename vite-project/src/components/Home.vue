@@ -8,10 +8,10 @@
 
     
 <div class="m-2">
-    <h2 class="text-4xl font-extrabold dark:text-white">Payments tool for companies</h2>
-<p class="my-4 text-lg text-gray-500">Start developing with an open-source library of over 450+ UI components, sections, and pages built with the utility classes from Tailwind CSS and designed in Figma.</p>
-<p class="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">Deliver great service experiences fast - without the complexity of traditional ITSM solutions. Accelerate critical development work, eliminate toil, and deploy changes with ease.</p>
-<a href="#" class="inline-flex items-center text-lg text-blue-600 dark:text-blue-500 hover:underline">
+    <h2 class="text-4xl font-extrabold dark:text-white">智慧園區解決方案</h2>
+<p class="my-4 text-lg text-gray-500">W智慧園區是一個集成了先進科技和智慧化解決方案的特定區域或場所，旨在提高效率、便利性、生活品質和可持續性。這些園區通常應用物聯網（IoT）、人工智慧（AI）、大數據分析、智能感知、自動化系統等技術，以實現更智慧、更連貫的運作和管理。</p>
+<p class="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">智慧園區的設計和運作旨在促進資源管理、服務提供、創新和可持續發展，並可能包括城市中的特定區域、工業園區、科技園區、企業總部或研發中心等。</p>
+<a href="#/Home" class="inline-flex items-center text-lg text-blue-600 dark:text-blue-500 hover:underline">
 Read more
 <svg class="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
   <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
@@ -32,7 +32,7 @@ Read more
             <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
         </div>
         <div class="mt-3 sm:pe-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.0.0</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">智慧園區 1.0</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 2, 2021</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
         </div>
@@ -47,7 +47,7 @@ Read more
             <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
         </div>
         <div class="mt-3 sm:pe-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.2.0</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">智慧園區 2.0</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on December 23, 2021</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
         </div>
@@ -62,7 +62,7 @@ Read more
             <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
         </div>
         <div class="mt-3 sm:pe-8">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Flowbite Library v1.3.0</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">智慧園區 3.0</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Released on January 5, 2022</time>
             <p class="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements.</p>
         </div>
@@ -77,7 +77,7 @@ Read more
           <img class="rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png" alt="image description">
         </a>
         <figcaption class="absolute px-4 text-lg text-white bottom-6">
-            <p>Do you want to get notified when a new component is added to Flowbite?</p>
+            <p>更好的智慧園區設計方案</p>
         </figcaption>
       </figure>
     
@@ -87,7 +87,7 @@ Read more
     </a>
 
      <a href="#" class="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 mt-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2023</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
     </a>
 </div>
